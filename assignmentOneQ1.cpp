@@ -1,6 +1,6 @@
 // ASSIGNMENT 1 QUESTION 1
 // IDE - xCode
-// Author - Leslie M. Musengi (stuID #64977528)
+
 // This is a program to compute and display the charges for a patient’s hospital stay
 #include <iostream>
 
